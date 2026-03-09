@@ -1,2 +1,2 @@
-# Execat
-a simple terminal pet
+# Execat! 😸
+A simple terminal pet! Another project I made while I should of been asleep... dunno if original either but I'm proud of it. Despite not really knowing shit about python...
